@@ -6,6 +6,8 @@
 - 😄 Pronouns: A whole woman
 - ⚡ Fun fact: Last years music did not cut it. Until Willow Smith and Thandiswa Mazwai dropped.
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motlalepu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Motlalepu/Motlalepu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
