@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating awesomness!
 - 🌱 I’m currently learning JavaScript and its syntax.
 - 💞️ I’m looking to collaborate on with experienced persons who love what they do.
-- 📫 How to reach me link email
+- 📫 How to reach me sejosengoemotalepula@gmail.com
 - 😄 Pronouns: A whole woman
 - ⚡ Fun fact: Last years music did not cut it. Until Willow Smith and Thandiswa Mazwai dropped.
 
